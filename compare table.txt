@@ -1,0 +1,7 @@
+Rule 						Followed? 			Evidence from Code
+Descriptive variable names 			Yes / No / N.A.
+One-line function docstring 			Yes / No / N.A.
+f-strings used 					Yes / No / N.A.
+No repeated unnamed numbers 			Yes / No / N.A.
+No unused imports 				Yes / No / N.A.
+No unrequested features 			Yes / No / N.A.
